@@ -24,23 +24,20 @@ Questions related to the application in *Open NCU* can be directed to
 <jr@fizyka.umk.pl>. 
 
 Apply by filling the following form:
-
-Fields marked with "<sup>*</sup>" are optional
-
 <form id="fs-frm" name="open-ncu-form" accept-charset="utf-8" action="https://formspree.io/xyygvnbv" method="post">
   <fieldset id="fs-frm-inputs">
 
     <label for="full-name">Contact Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
 
-    <label for="full-name">Project Name</label>
-    <input type="text" name="project-name" id="project-name" placeholder="What's it called?" required="">
+    <label for="project-name">Project Name</label>
+    <input type="text" name="project" id="project-name" placeholder="What's it called?" required="">
 
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="your@email.com" required="">
 
-    <label for="email-address">Department</label>
-    <input type="email" name="department" id="department" placeholder="Your department" required="">
+    <label for="department-name">Department</label>
+    <input type="email" name="department" id="department-name" placeholder="Your department" required="">
 
     <label for="category">Category</label>
     <select id="category" type="texy" name="category">
@@ -52,8 +49,8 @@ Fields marked with "<sup>*</sup>" are optional
       <option>other</option>
     </select> 
 
-    <label for="category">Will project data be provided without restrictions?</label>
-    <select id="category" type="texy" name="category">
+    <label for="data">Will project data be provided without restrictions?</label>
+    <select id="data" type="texy" name="data">
       <option>yes</option>
       <option>no</option>
     </select>
@@ -61,8 +58,8 @@ Fields marked with "<sup>*</sup>" are optional
     <label for="publication">Publication</label>
     <input id="publication" type="text" name="publication" placeholder="examples: 10.1016/j.cpc.2013.09.018, unpublished" required>
 
-    <label for="message">Explanation</label>
-    <textarea rows="5" name="message" id="message" placeholder="Why should we fund your project?" required=""></textarea>
+    <label for="explanation">Explanation</label>
+    <textarea rows="5" name="exp" id="explanation" placeholder="Why should we fund your project?" required=""></textarea>
 
   <input type="hidden" name="_subject" id="email-subject" value="Open-NCU Form Submission">
 
