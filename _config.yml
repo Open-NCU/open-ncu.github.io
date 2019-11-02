@@ -3,13 +3,13 @@ minimal_mistakes_skin    : "default"
 locale                   : "en-US"
 title                    : " "
 title_separator          : "|"
-name                     : "Jakub Rydzewski"
-description              : "Computational Physics Group at NCU"
-url                      : "https://jakryd.github.io"
+name                     : "Open NCU"
+description              : "Open NCU -- Open Source, Open Science"
+url                      : "https://open-ncu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jakryd/jakryd.github.io"
+repository               : "open-ncu/open-ncu.github.io"
 teaser                   : # "/assets/images/logo.jpg"
-logo                     : /assets/images/umk.png
+logo                     : #/assets/images/umk.png
 masthead_title           : #" "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -68,7 +68,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : jakryd
+  username               : open-ncu
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -84,34 +84,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jakub Rydzewski"
+  name             : "Open NCU"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Physics Group at NCU"
+  bio              : "Open NCU -- Open Source, Open Science"
   location         : "NCU, Poland"
   email            : jr@fizyka.umk.pl
   links:
-    - label: "Institute of Physics, NCU"
+    - label: "Nicolaus Copernicus University"
       icon: "fas fa-fw fa-link"
-      url: "https://www.ifiz.umk.pl/en/"
+      url: "https://www.umk.pl/en/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JakubRydzewski"
+      url: "https://twitter.com/Open-NCU"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jakryd"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.pl/citations?user=dEMXOpcAAAAJ&hl=en"
+      url: "https://github.com/open-ncu"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JakubRydzewski"
+      url: "https://twitter.com/Open-NCU"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jakryd"
+      url: "https://github.com/open-ncu"
 
 # Reading Files
 include:
