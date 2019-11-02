@@ -25,11 +25,6 @@ Questions related to the application in *Open NCU* can be directed to
 
 Apply by filling the following form:
 
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
-</form>
-
 Fields marked with "<sup>*</sup>" are optional
 
 <form action="https://formspree.io/xyygvnbv" method="POST">
@@ -37,10 +32,6 @@ Fields marked with "<sup>*</sup>" are optional
     <tr>
       <td><label for="name">Project name</label></td>
       <td width="600"><input id="name" type="text" name="projectname" required> </td>
-    </tr>
-    <tr>
-      <td><label for="url">URL</label></td>
-      <td width="600"><input id="url" type="text" name="url" required> </td>
     </tr>
     <tr>
       <td><label for="category">Category</label></td>
