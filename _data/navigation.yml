@@ -1,4 +1,6 @@
 main:
+  - title: "Apply"
+    url: /apply/
   - title: "Funding"
     url: /funding/
   - title: "Publications"
