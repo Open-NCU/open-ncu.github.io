@@ -37,7 +37,7 @@ Apply by filling the following form:
     <input type="email" name="_replyto" id="email-address" placeholder="your@email.com" required="">
 
     <label for="department-name">Department</label>
-    <input type="email" name="department" id="department-name" placeholder="Your department" required="">
+    <input type="text" name="department" id="department-name" placeholder="Your department" required="">
 
     <label for="category">Category</label>
     <select id="category" type="texy" name="category">
