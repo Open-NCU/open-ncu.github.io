@@ -31,12 +31,12 @@ Fields marked with "<sup>*</sup>" are optional
 <table>
     <tr>
       <td><label for="name">Project name</label></td>
-      <td width="1500"><input id="name" type="text" name="projectname" required> </td>
+      <td width="600"><input id="name" type="text" name="projectname" required> </td>
     </tr>
 
     <tr>
       <td><label for="category">Category</label></td>
-      <td width="1500"><select id="category" type="texy" name="category">
+      <td width="600"><select id="category" type="texy" name="category">
         <option>open access</option>
         <option>article publishing charges</option>
         <option>Dropbox</option>
@@ -46,8 +46,8 @@ Fields marked with "<sup>*</sup>" are optional
     </tr>
 
     <tr>
-      <td><label for="category">Will access to data related to your project be provided without restrictions?</label></td>
-      <td width="1500"><select id="category" type="texy" name="category">
+      <td><label for="category">Will project data be provided?</label></td>
+      <td width="600"><select id="category" type="texy" name="category">
         <option>yes</option>
         <option>no</option>
       </td>
@@ -55,34 +55,34 @@ Fields marked with "<sup>*</sup>" are optional
 
     <tr>
       <td height="200"><label for="instructions">Explanation</label></td>
-      <td width="1500" height="200">
+      <td width="600" height="200">
         <textarea id="instructions" name="message" type="text" placeholder="Please explain why should we fund your action" required>
         </textarea></td>
     </tr>
 
     <tr>
       <td><label for="contributor">Contributor</label></td>
-      <td width="1500"><input id="contributor" type="text" name="contributor" required></td>
+      <td width="600"><input id="contributor" type="text" name="contributor" required></td>
     </tr>
 
     <tr>
       <td><label for="publication">Publication</label></td>
-      <td width="1500"><input id="publication" type="text" name="publication" placeholder="examples: 10.1016/j.cpc.2013.09.018, unpublished" required></td>
+      <td width="600"><input id="publication" type="text" name="publication" placeholder="examples: 10.1016/j.cpc.2013.09.018, unpublished" required></td>
     </tr>
 
     <tr>
       <td><label for="contact">Contact</label></td>
-      <td width="1500"><input id="contact" type="text" name="contact" required></td>
+      <td width="600"><input id="contact" type="text" name="contact" required></td>
     </tr>
 
     <tr>
       <td><label for="email">Contact email</label></td>
-      <td width="1500"><input id="email" type="email" name="email" required></td>
+      <td width="600"><input id="email" type="email" name="email" required></td>
     </tr>
 
     <tr>
       <td><label for="comments">Comments<sup>*</sup></label></td>
-      <td width="1500"><input id="comments" type="text" name="comments"></td>
+      <td width="600"><input id="comments" type="text" name="comments"></td>
     </tr>
 
 </table>
