@@ -9,7 +9,7 @@ main:
     url: /software/
 
 members:
-  - title: "Group Leader"
+  - title: "Project Coordinator"
     children:
       - title: "Dr. Jakub Rydzewski"
         url: /members/jr/
@@ -17,27 +17,9 @@ members:
     children:
       - title: "Adam S. Grzonkowski"
         url: /members/asg
-  - title: "Students"
-    children:
-      - title: "Sylwia Czach"
-        url: /members/sc/
-      - title: "Kajetan Krzewina"
-        url: /members/kk/
-      - title: "Aleksander Oskroba"
-        url: /members/ao/
-      - title: "Aleksandra Warmbier"
-        url: /members/aw/
 
 shortcuts:
   - title: "Shortcuts"
     children:
       - title: "Recent Publications"
         url: /publications/#2019
-      - title: "MAZE"
-        url: /software/#maze
-      - title: "Posters"
-        url: https://github.com/jakryd/posters/
-      - title: "PLUMED Eggs"
-        url: https://github.com/jakryd/plumed-eggs/
-      - title: "The PLUMED Consortium"
-        url: https://www.plumed-nest.org/
