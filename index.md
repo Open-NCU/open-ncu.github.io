@@ -27,7 +27,7 @@ Apply by filling the following form:
 
 Fields marked with "<sup>*</sup>" are optional
 
-<form action="https://formspree.io/xyygvnbv" method="POST">
+<form class="wj-contact" action="https://formspree.io/xyygvnbv" method="POST">
 <table>
     <tr>
       <td><label for="name">Project name</label></td>
@@ -86,7 +86,30 @@ Fields marked with "<sup>*</sup>" are optional
     </tr>
 
 </table>
-
+  <input type="text" name="_gotcha" style="display:none"> <br>
   <button type="submit">Submit</button>
+  <input type="hidden" name="_subject" id="_subject" value="PLUMED-NEST submission"> <br>
 
 </form>
+
+<style>
+form.wj-contact input[type="text"], form.wj-contact textarea[type="text"], form.wj-contact input[type="email"]{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    padding: 0.25em;
+    font-family: monospace, sans-serif;
+    font-weight: lighter;
+    border-style: solid;
+    border-color: #444;
+    outline-color: #2e83e6;
+    border-width: 1px;
+    border-radius: 3px;
+    transition: box-shadow .2s ease;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto
+    box-sizing: border-box;
+}
+</style>
