@@ -1,22 +1,10 @@
 main:
-  - title: "Members"
-    url: /members/
-  - title: "Publications"
-    url: /publications/
   - title: "Funding"
     url: /funding/
+  - title: "Publications"
+    url: /publications/
   - title: "Software"
     url: /software/
-
-members:
-  - title: "Project Coordinator"
-    children:
-      - title: "Dr. Jakub Rydzewski"
-        url: /members/jr/
-  - title: "PhD Students"
-    children:
-      - title: "Adam S. Grzonkowski"
-        url: /members/asg
 
 shortcuts:
   - title: "Shortcuts"

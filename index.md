@@ -8,7 +8,7 @@ This is the main site for the project *Open NCU -- Open Source, Open Science*
 which focuses on promoting activities related to to the open model of doing 
 research at Nicolaus Copernicus University.
 
-The project is led by Jakub Rydzewski, within the Department of Biophysics 
+The project is led by [Jakub Rydzewski](https://jakryd.github.io), within the Department of Biophysics 
 at the Institute of Physics, Nicolaus Copernicus University in Torun, Poland.
 
 The *Open NCU* project is being financed by the Polish National Agency for
