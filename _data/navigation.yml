@@ -3,6 +3,8 @@ main:
     url: /apply/
   - title: "Funding"
     url: /funding/
+  - title: "Committee"
+    url: /committee/
   - title: "Publications"
     url: /publications/
   - title: "Software"
