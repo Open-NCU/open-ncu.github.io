@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Publications
+title: Terms & Conditions
 permalink: /terms/
 toc: true
 author_profile: true
