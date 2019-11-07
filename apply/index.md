@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Funding
+title: Apply
 permalink: /apply/
 author_profile: true
 sidebar:

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Funding
+title: Committee
 permalink: /committee/
 author_profile: true
 sidebar:
