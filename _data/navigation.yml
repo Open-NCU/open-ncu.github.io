@@ -5,6 +5,8 @@ main:
     url: /funding/
   - title: "Committee"
     url: /committee/
+  - title: "Terms & Conditions"
+    url: /terms/
   - title: "Publications"
     url: /publications/
   - title: "Software"

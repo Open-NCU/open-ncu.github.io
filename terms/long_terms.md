@@ -10,9 +10,27 @@
 4. The contest aims at young NCU researchers in mathematics, computer science,
    physics, astronomy, chemistry and biology.
 5. The contest description:
-   a. 
-   b.
-   c.
+   a. The purpose of this project is to assist researchers in developing research 
+   projects, including paying for:
+     * Open access charges,
+     * Article publishing charges,
+     * Extended access to data storage services.
+   b. Each applicant must be considered a young researcher (up to 7 year after
+      PhD). Supported publications must belong in scope to mathematics, computer 
+      science, physics, chemistry or biology, and have 100 or more ministerial 
+      points.
+   c. Grants will be awarded in two calls. Up to 6 grants will be awarded for 
+      open access charges or article publishing charges, and up to 60 applications 
+      for extended access to data storage for one year will be funded.
+   d. Applicants will be assessed by a joint panel of staff from NCU. The 
+      selection committee will consider:
+        * The quality of the aims, significance, research plan, and proposed 
+          outcomes of the study undertaken in the style of the Open Science 
+          model,
+        * All the data used in the study must be provided without any 
+          restrictions,
+        * Transparency and reproducibility of the research will by taken into 
+          consideration.
 6. Important dates:
    a.
    b.
@@ -30,16 +48,16 @@
       purpose of the of the contest, and in case of acquiring the funding, I agree
       that my first and last name will be published in the public ranking list 
       that will be published at project's website."
-
-      The contest winners have to agree that their name will be published at the
+   e. The contest winners have to agree that their name will be published at the
       website https://open-ncu.github.io, as well as that after they agree to 
       participate in the project, their personal data will be processed for the 
       purposes of the contest (according to the Act of August 29, 1997 on the
       Protection of Personal Data; entire text: Dz. U. from 2002 Nr 101, position
       926 with changes).
-    e. Sending the application means that the participant agrees to the contest
-       rules presented in this document.
+   f. Sending the application means that the participant agrees to the contest
+      rules presented in this document.
 8. Evaluation of the applications:
+
 9. Participation in the project:
    a. During the publication process of research funded by the project, each
       participant is obliged to include the following statement in acknowledgement:
@@ -57,7 +75,4 @@
 
 The terms and conditions were approved by: 
 
-the project leader, dr Jakub Rydzewski: 
-
-
-and the committee:
+The project leader, dr Jakub Rydzewski: 

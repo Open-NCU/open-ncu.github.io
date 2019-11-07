@@ -27,7 +27,6 @@ Each applicant must be considered a young researcher (up to 7 year after PhD).
 Supported publications must belong in scope to mathematics, computer science, physics, 
 chemistry or biology, and have 100 or more ministerial points.
 
-
 ### Terms and Conditions
 Grants will be awarded in two calls. Up to 6 grants will be awarded for open access 
 charges or article publishing charges, and up to 60 applications for extended access
