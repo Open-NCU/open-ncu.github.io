@@ -15,22 +15,22 @@ sidebar:
    by the Project Leader (PL) in agreement with Rector's Proxy for Scientific 
    Excellence.
 4. The contest description:
-  1. The purpose of this project is to assist researchers in developing research 
+    1. The purpose of this project is to assist researchers in developing research 
      projects, including payment for:  
      * Open access charges (OAC),
      * Extended access to data storage services (DS).
-  2. Each applicant must be considered a young researcher (up to 7 years after
+    2. Each applicant must be considered a young researcher (up to 7 years after
      PhD, from the date of obtaining the title to the date of the application 
      submission). Publications supported in the contest must belong in scope to 
      mathematics, computer science, physics, chemistry or biology.  
-  3. Publications in journals with 140 or more points according to the list of 
+    3. Publications in journals with 140 or more points according to the list of 
      scientific journals and peer-reviewed materials from international conferences 
      published by Polish Ministry of Science and Higher Education will be given 
      priority.
-  4. Up to 6 grants in two calls will be awarded for OAC.  
-  5. Up to 60 applications for DS for one year will be funded in a separate and 
+    4. Up to 6 grants in two calls will be awarded for OAC.  
+    5. Up to 60 applications for DS for one year will be funded in a separate and 
      continuous call.  
-  6. Applicants will be assessed by the Contest Committee from NCU which will 
+    6. Applicants will be assessed by the Contest Committee from NCU which will 
       consider:  
       * If a given research article is close to acceptance,
       * The quality of the aims, significance, research plan, and proposed 
