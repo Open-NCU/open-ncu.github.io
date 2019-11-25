@@ -15,12 +15,12 @@ sidebar:
 3. The Contest Committee representing different research disciplines is raised 
    by the Project Leader (PL) in agreement with Rector's Proxy for Scientific 
    Excellence.
-4. The contest description:  
-   a) The purpose of this project is to assist researchers in developing research 
-      projects, including payment for:  
-        * Open access charges (OAC),
-        * Extended access to data storage services (DS).  
-   b) Each applicant must be considered a young researcher (up to 7 years after
+4. The contest description:
+  4.1. The purpose of this project is to assist researchers in developing research 
+       projects, including payment for:  
+         * Open access charges (OAC),
+         * Extended access to data storage services (DS).  
+  4.2. Each applicant must be considered a young researcher (up to 7 years after
       PhD, from the date of obtaining the title to the date of the application 
       submission). Publications supported in the contest must belong in scope to 
       mathematics, computer science, physics, chemistry or biology.  
