@@ -2,11 +2,12 @@
 layout: home
 author_profile: true
 sidebar:
+title: "Open NCU"
   nav: shortcuts
 ---
 
 ### Important dates!
-* Data storage (one year subscription for Dropbox Premium or Github Predmiun): 
+* Data storage (one year subscription for Dropbox Premium or Github Premium): 
   continuous call starts 2 Dec 2019,
 * Open Access charges: 1st call starts 2 Dec 2019, and ends 27 Feb 2020 (3 
   grants will be awarded),
