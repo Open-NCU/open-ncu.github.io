@@ -16,66 +16,66 @@ sidebar:
    Excellence.
 4. The contest description:
     1. The purpose of this project is to assist researchers in developing research 
-     projects, including payment for:  
-     * Open access charges (OAC),
-     * Extended access to data storage services (DS).
+       projects, including payment for:  
+          * Open access charges (OAC),
+          * Extended access to data storage services (DS).
     2. Each applicant must be considered a young researcher (up to 7 years after
-     PhD, from the date of obtaining the title to the date of the application 
-     submission). Publications supported in the contest must belong in scope to 
-     mathematics, computer science, physics, chemistry or biology.  
+       PhD, from the date of obtaining the title to the date of the application 
+       submission). Publications supported in the contest must belong in scope to 
+       mathematics, computer science, physics, chemistry or biology.  
     3. Publications in journals with 140 or more points according to the list of 
-     scientific journals and peer-reviewed materials from international conferences 
-     published by Polish Ministry of Science and Higher Education will be given 
-     priority.
+       scientific journals and peer-reviewed materials from international conferences 
+       published by Polish Ministry of Science and Higher Education will be given 
+       priority.
     4. Up to 6 grants in two calls will be awarded for OAC.  
     5. Up to 60 applications for DS for one year will be funded in a separate and 
-     continuous call.  
+       continuous call.  
     6. Applicants will be assessed by the Contest Committee from NCU which will 
-      consider:  
-      * If a given research article is close to acceptance,
-      * The quality of the aims, significance, research plan, and proposed 
-        outcomes of the study undertaken in the style of the open science 
-        model,
-      * Whether all the data used in the study is provided without any 
-        restrictions,
-      * Transparency and reproducibility of the research.
+       consider:  
+          * If a given research article is close to acceptance,
+          * The quality of the aims, significance, research plan, and proposed 
+            outcomes of the study undertaken in the style of the open science 
+            model,
+          * Whether all the data used in the study is provided without any 
+            restrictions,
+          * Transparency and reproducibility of the research.
 5. Important dates:
-  1. DS -- continuous call starts 2 Dec 2019,
-  2. OAC -- 1st call starts 2 Dec 2019, and ends 27 Feb 2020 (3 grants will be 
-     awarded),
-  3. OAC -- 2nd call starts 26 Mar 2020, and ends 20 Apr 2020 (3 grants will be 
-      awarded).
+    1. DS -- continuous call starts 2 Dec 2019,
+    2. OAC -- 1st call starts 2 Dec 2019, and ends 27 Feb 2020 (3 grants will be 
+       awarded),
+    3. OAC -- 2nd call starts 26 Mar 2020, and ends 20 Apr 2020 (3 grants will be 
+       awarded).
 6. Acquiring funding in the contest:
-  1. The application form is provided at https://open-ncu.github.io/apply,
-  2. The application form must be filled in English,
-  3. In the application form, the candidate must include his/her contact name,
-      project's name, email address, department and a brief explanation,
-  4. Additionally, by filling and sending the application form, the candidate
-     agrees to the following statement:
+    1. The application form is provided at https://open-ncu.github.io/apply,
+    2. The application form must be filled in English,
+    3. In the application form, the candidate must include his/her contact name,
+       project's name, email address, department and a brief explanation,
+    4. Additionally, by filling and sending the application form, the candidate
+       agrees to the following statement:
 
-      "I am willing to participate in the contest *Open NCU -- Open Source, Open
-      Science*. I hereby inform that I read the Terms and Conditions of the
-      contest and that I agree for processing my personal data solely for the
-      purpose of the of the contest, and in case of acquiring the funding, I agree
-      that my first and last name will be published in the public ranking list 
-      that will be published at project's website."
+       "I am willing to participate in the contest *Open NCU -- Open Source, Open
+       Science*. I hereby inform that I read the Terms and Conditions of the
+       contest and that I agree for processing my personal data solely for the
+       purpose of the of the contest, and in case of acquiring the funding, I agree
+       that my first and last name will be published in the public ranking list 
+       that will be published at project's website."
 
-      The contest winners have to agree that their name will be published at the
-      website https://open-ncu.github.io, as well as that after they agree to 
-      participate in the project, their personal data will be processed for the 
-      purposes of the contest (according to the Act of August 29, 1997 on the
-      Protection of Personal Data; entire text: Dz. U. from 2002 Nr 101, position
-      926 with changes).
+       The contest winners have to agree that their name will be published at the
+       website https://open-ncu.github.io, as well as that after they agree to 
+       participate in the project, their personal data will be processed for the 
+       purposes of the contest (according to the Act of August 29, 1997 on the
+       Protection of Personal Data; entire text: Dz. U. from 2002 Nr 101, position
+       926 with changes).
 7. During the publication process of research funded by the project, each
    participant is obliged to include the following statement in acknowledgment:
    "Publication fees were (partially) funded by the Polish National Agency for 
    Academic Exchange under a project name Open NCU."
 8. Revocation:
-  1. It is possible to disagree with the decision of the Contest Committee in a 
-     written form within one week from the announcement of the contest results.
-     Such a revocation must be supported by arguments that could convince the 
-     Contest Committee to change its decision.
-  2. The decision of the Contest Committee after revocation is considered final.
+    1. It is possible to disagree with the decision of the Contest Committee in a 
+       written form within one week from the announcement of the contest results.
+       Such a revocation must be supported by arguments that could convince the 
+       Contest Committee to change its decision.
+    2. The decision of the Contest Committee after revocation is considered final.
 9. The organizer is allowed to change the rules and regulations as long as it 
-    will not worsen the terms and conditions of the participants.
+   will not worsen the terms and conditions of the participants.
 10. Questions concerning the contest can be send to <jr@fizyka.umk.pl>.
