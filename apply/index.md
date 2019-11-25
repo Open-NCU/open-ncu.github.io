@@ -112,10 +112,10 @@ Apply by filling the following form:
               required="">
     </textarea>
 
-    <label for="check">
+    <label>
       <input type="checkbox" name="check" value="yes"> I hereby acknowledge that
-      I have read and understood the [Terms and Conditions](/terms/terms_conditions/)
-      and I agree to all of the terms.
+      I have read and understood the Terms and Conditions and I agree to all of 
+      the terms.
     </label>
 
   <input type="hidden" 
