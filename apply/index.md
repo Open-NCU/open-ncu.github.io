@@ -32,7 +32,7 @@ Apply by filling the following form:
     <input type="text" 
            name="project" 
            id="project-name" 
-           placeholder="Your project's name?" 
+           placeholder="Your project's name" 
            required="">
 
     <label for="email-address">
@@ -113,14 +113,9 @@ Apply by filling the following form:
     </textarea>
 
     <label for="check">
-      I hereby confirm that:
-      <input type="checkbox" name="check" value="yes">
-      I am willing to participate in the contest. I inform that I read the 
-      Terms and Conditions of the contest and that I agree for processing 
-      my personal data solely for the purpose of the of the contest, and 
-      in case of acquiring the funding, I agree that my first and last name 
-      will be published in the public ranking list  that will be published 
-      at project's website.
+      <input type="checkbox" name="check" value="yes"> I hereby acknowledge that
+      I have read and understood the [Terms and Conditions](/terms/terms_conditions/)
+      and I agree to all of the terms.
     </label>
 
   <input type="hidden" 
