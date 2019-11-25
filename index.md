@@ -1,8 +1,8 @@
 ---
 layout: home
 author_profile: true
-title: "Open NCU"
-sidebar: true
+title: Open NCU
+sidebar:
   nav: shortcuts
 ---
 
