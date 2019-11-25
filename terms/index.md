@@ -17,9 +17,9 @@ sidebar:
    Excellence.
 4. The contest description:
    a. The purpose of this project is to assist researchers in developing research 
-   projects, including payment for:
-     * Open access charges (OAC),
-     * Extended access to data storage services (DS).
+      projects, including payment for:
+        * Open access charges (OAC),
+        * Extended access to data storage services (DS).
    b. Each applicant must be considered a young researcher (up to 7 years after
       PhD, from the date of obtaining the title to the date of the application 
       submission). Publications supported in the contest must belong in scope to 
