@@ -112,6 +112,18 @@ Apply by filling the following form:
               required="">
     </textarea>
 
+    <label>
+      <input type="checkbox" name="check" value="yes">
+    
+      I am willing to participate in the contest *Open NCU -- Open Source, Open
+      Science*. I hereby inform that I read the Terms and Conditions of the
+      contest and that I agree for processing my personal data solely for the
+      purpose of the of the contest, and in case of acquiring the funding, I agree
+      that my first and last name will be published in the public ranking list 
+      that will be published at project's website.
+
+    </label>
+
   <input type="hidden" 
          name="_subject" 
          id="email-subject" 
