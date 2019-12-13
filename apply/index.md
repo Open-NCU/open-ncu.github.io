@@ -63,16 +63,10 @@ Apply by filling the following form:
         Select
       </option>
       <option>
-        Open Access Fee
+        Open Access Charges
       </option>
       <option>
-        Article Publishing Charges
-      </option>
-      <option>
-        Dropbox
-      </option>
-      <option>
-        GitHub
+        Data Storage
       </option>
       <option>
         Other
@@ -94,12 +88,12 @@ Apply by filling the following form:
     </select>
     
     <label for="publication">
-      Publication
+      Publication / Results
     </label>
     <input id="publication" 
            type="text" 
            name="publication" 
-           placeholder="examples: 10.1016/j.cpc.2013.09.018, unpublished" 
+           placeholder="examples: 10.1016/j.cpc.2013.09.018, unpublished, collaboration (data storage)" 
            required>
 
     <label for="explanation">
