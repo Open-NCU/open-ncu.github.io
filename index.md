@@ -11,7 +11,7 @@ sidebar:
   continuous call starts 2 Dec 2019,
 * Open Access charges: 1st call starts 2 Dec 2019, and ends 27 Feb 2020 (3 
   grants will be awarded),
-* Open Access charges: 2nd call starts 26 Mar 2020, and ends 20 Apr 2020 (3 
+* Open Access charges: 2nd call starts 2 Mar 2020, and ends 27 Apr 2020 (3 
   grants will be awarded).
 
 --------------------------------------------------------------------------------
