@@ -7,12 +7,11 @@ sidebar:
 ---
 
 ### Important dates!
-* Data storage (one year subscription for Dropbox Premium or Github Premium): 
-  continuous call starts 2 Dec 2019,
 * Open Access charges: 1st call starts 2 Dec 2019, and ends 27 Feb 2020 (3 
   grants will be awarded),
 * Open Access charges: 2nd call starts 2 Mar 2020, and ends 27 Apr 2020 (3 
   grants will be awarded).
+* Open Access charges: 3rd call starts 20 Jan 2021, and ends 1 Apr 2021.  
 
 --------------------------------------------------------------------------------
 This is the main site for the project *Open NCU -- Open Source, Open Science*
