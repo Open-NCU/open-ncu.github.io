@@ -10,6 +10,12 @@ sidebar:
 
 This project supported the following publications:
 
+## 2021
+M. Fejzer, J. Narebski P. Przymus and K. Stencel   
+*Tracking Buggy Files: New Efficient Adaptive Bug Localization Algorithm*  
+IEEE Transactions on Software Engineering (2021) Early Access  
+[DOI](https://doi.org/10.1109/TSE.2021.3064447){: .btn .btn--inverse .btn--small}
+
 ## 2020
 E. Deja-Sikora, A. Kowalczyk, A. Trejgell, A. Szmidt-Jaworska, C. Baum, L. Mercy and K. Hrynkiewicz  
 *Arbuscular Mycorrhiza Changes the Impact of Potato Virus Y on Growth and Stress Tolerance of Solanum tuberosum L. in vitro*  

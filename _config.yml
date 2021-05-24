@@ -9,7 +9,7 @@ url                      : "https://open-ncu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "open-ncu/open-ncu.github.io"
 teaser                   : # "/assets/images/logo.jpg"
-logo                     : /assets/images/logo.jpeg
+logo                     : /assets/images/logo.png
 masthead_title           : #" "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
